@@ -16,6 +16,7 @@ The Semantic Similarity App is a special tool that shows how similar two sentenc
 
 1.Install Docker by visiting the official Docker website and downloading the appropriate version for your operating system: https://www.docker.com/get-started
 
+
 2. Clone this repository:
 ```bash
 git clone https://github.com/moeketsisegalo/similarity_application.git
