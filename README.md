@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Similarity App](#similarity-app)
+  - [Description](#Description)
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
