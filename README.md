@@ -7,7 +7,7 @@
   - [Usage](#usage)
   - [Credits](#credits)
 
-
+## Description
 The Semantic Similarity App is a special tool that shows how similar two sentences are using the spaCy library. It helps computers understand our words and sentences, which is important for answering questions and finding information. With this app, we can quickly check the similarity between sentences and help computers become better at understanding and connecting sentences. It's like a special tool that helps computers talk and understand us better.
 
 ## Installation
