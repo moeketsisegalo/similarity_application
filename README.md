@@ -21,12 +21,14 @@ cd similarity-app
 ```bash
 docker build -t similarity_app .
 ```
+![Screenshot](Screenshots_semantic/Screenshot%202023-05-17%20at%2013.17.50.png)
+
 ## Usage
 4.Run the Docker container:
 ```bash
 docker run -it similarity_app
 ```
-![Screenshot](Screenshot_semantic/screenshot%202023-05-17%20at%2013.17.50.png)
+
 
 
 
