@@ -1,6 +1,6 @@
 # Similarity App
 
-This is a sample application that demonstrates text similarity using the spaCy library.
+The Semantic Similarity App is a special tool that shows how similar two sentences are using the spaCy library. It helps computers understand our words and sentences, which is important for answering questions and finding information. With this app, we can quickly check the similarity between sentences and help computers become better at understanding and connecting sentences. It's like a special tool that helps computers talk and understand us better.
 
 ## Installation
 
@@ -26,6 +26,13 @@ docker build -t similarity_app .
 ```bash
 docker run -it similarity_app
 ```
+
+● A Table of Contents to allow other people to quickly navigate especially long
+or detailed READMEs.
+
+
+● A section for credits which highlights and links to the authors of your project
+if the project has been created by more than one person.
      
 
 
