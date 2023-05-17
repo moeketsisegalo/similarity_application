@@ -12,7 +12,9 @@ To build and run the application, Docker needs to be installed on your system.
    git clone https://github.com/your-username/similarity-app.git
    
 2.Navigate to the project directory:
+```bash
 cd similarity-app
+```
 
 3.Build the Docker image:
 docker build -t similarity_app .
