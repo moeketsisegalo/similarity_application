@@ -1,2 +1,26 @@
-venv/
-virtualenv/
+# Docker
+.dockerignore
+.docker/
+
+# Local development environment files
+.env
+.env.*
+
+# Docker Compose
+docker-compose.yml
+docker-compose.yaml
+docker-compose.override.yml
+docker-compose.override.yaml
+
+# Docker Machine
+/*.pem
+/*.key
+/.docker/machine
+
+# Docker Swarm
+docker-stack.yml
+docker-stack.yaml
+
+# Persistent data directories
+data/
+logs/
