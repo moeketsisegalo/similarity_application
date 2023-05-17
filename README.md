@@ -22,7 +22,7 @@ git clone https://github.com/moeketsisegalo/similarity_application.git
    
 2.Navigate to the project directory:
 ```bash
-cd similarity-app
+cd similarity_application
 ```
 
 3.Build the Docker image:
