@@ -45,7 +45,7 @@ docker run -it similarity_app
 ![Screenshot](Screenshots_semantic/Screenshot%202023-05-17%20at%2013.24.31.png)
 
 ## Credits
-Author: Moeketsi Segalo This project was developed solely by myself Moeketsi Segalo using Python.
+Author: Moeketsi Segalo,This project was developed solely by myself using Python.
 
 
 
