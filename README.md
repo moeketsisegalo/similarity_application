@@ -26,7 +26,7 @@ docker build -t similarity_app .
 ```bash
 docker run -it similarity_app
 ```
-![Screenshot](screenshot_semantic/Screenshot%202023-05-17%20at%2013.17.50.png)
+![Screenshot](Screenshot_semantic/Screenshot%202023-05-17%20at%2013.17.50.png)
 
 
 
