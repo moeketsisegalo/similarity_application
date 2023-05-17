@@ -44,7 +44,6 @@ for sentence in sentences:
 # To provide an example of my own, let's consider the entities "car," "bicycle," and "train." 
 # These three entities share certain similarities as modes of transportation. 
 # By calculating the similarity scores between these entities, we can gain insights into their relative similarities and how they compare to the previous example. 
-# However, note that without knowing the specific model or algorithm used, the similarity scores may vary.
 
 
 
