@@ -12,7 +12,8 @@ The Semantic Similarity App is a special tool that shows how similar two sentenc
 
 ## Installation
 
-To build and run the application, Docker needs to be installed on your system.
+### To build and run the application, Docker needs to be installed on your system.
+
 1.Install Docker by visiting the official Docker website and downloading the appropriate version for your operating system: https://www.docker.com/get-started
 
 2. Clone this repository:
