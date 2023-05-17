@@ -38,17 +38,10 @@ docker run -it similarity_app
 ```
 ![Screenshot](Screenshots_semantic/Screenshot%202023-05-17%20at%2013.24.31.png)
 
+## Credits
+- Moeketsi Segalo
 
 
-
-
-● A Table of Contents to allow other people to quickly navigate especially long
-or detailed READMEs.
-
-
-● A section for credits which highlights and links to the authors of your project
-if the project has been created by more than one person.
-     
 
 
  
