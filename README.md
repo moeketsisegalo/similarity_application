@@ -14,7 +14,7 @@ The Semantic Similarity App is a special tool that shows how similar two sentenc
 
 ### To build and run the application, Docker needs to be installed on your system.
 
-1.Install Docker by visiting the official Docker website and downloading the appropriate version for your operating system: https://www.docker.com/get-started
+1. Install Docker by visiting the official Docker website and downloading the appropriate version for your operating system: https://www.docker.com/get-started
 
 
 2. Clone this repository:
@@ -22,19 +22,19 @@ The Semantic Similarity App is a special tool that shows how similar two sentenc
 git clone https://github.com/moeketsisegalo/similarity_application.git
 ```
    
-3.Navigate to the project directory:
+3. Navigate to the project directory:
 ```bash
 cd similarity_application
 ```
 
-4.Build the Docker image:
+4. Build the Docker image:
 ```bash
 docker build -t similarity_app .
 ```
 ![Screenshot](Screenshots_semantic/Screenshot%202023-05-17%20at%2013.17.50.png)
 
 ## Usage
-5.Run the Docker container:
+5. Run the Docker container:
 ```bash
 docker run -it similarity_app
 ```
